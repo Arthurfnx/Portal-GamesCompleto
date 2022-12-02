@@ -128,7 +128,6 @@ function getPesquisa (){
                         <p>Lançamento: ${data.released}</p>
                         <p>Rating: ${data.rating}</p>
                         <p>Link para o site oficial: <a href=" ${data.website}">${data.website}</a></p>
-                        <p>Generos:${data.genres}</p>
                         <h2>Sobre o Jogo</h2>
                         <p>${data.description}</p>
                        
